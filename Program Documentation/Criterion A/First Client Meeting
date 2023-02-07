@@ -1,0 +1,19 @@
+Requirements:
+- data every class is stored, for which grade, 
+- data stored for the user, after input, student name, ID, grade, address, class list
+- selection: which classes chosen by the student
+
+- allow the user to select
+- display the user selections
+- GUI, display student info and classes, and select classes
+
+Success Criteria
+- student should be able to view their class selection / schedule
+- be able to select allowed classes
+
+Basic Test Plan:
+- verify if a student is valid, if student ID exists
+- verify if student schedule selection meets minimum requirements, one school year, 5-8 classes
+
+Data storage:
+- MySQL
